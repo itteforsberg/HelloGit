@@ -11,3 +11,4 @@ import Foundation
 print("Hello, Git!")
 print("Hei, ru")
 print("Detta er fett!")
+print("SUT digitaliserer!")
